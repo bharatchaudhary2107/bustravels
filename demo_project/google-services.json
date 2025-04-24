@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277157973313",
+    "project_id": "sitaram-travels-260ba",
+    "storage_bucket": "sitaram-travels-260ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277157973313:android:e860e0a2a7a11cde8325c0",
+        "android_client_info": {
+          "package_name": "com.example.demo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVho2F43Hp6Yh8MioENioUK-CYv_-n_nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
